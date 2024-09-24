@@ -1,2 +1,3 @@
 # Hello-World
-Program the prints hello world
+#My first repo
+This is my first repo. Thats why ive called this repo "hello world"!
